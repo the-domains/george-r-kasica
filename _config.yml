@@ -1,14 +1,26 @@
-layout_spectrum: 0.3650963
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4044243
 color:
   saturation: 0.02294894
-  lightness: 0.04009482
   brandStrength: 0.5113662
-  rhythmicContrast: 0.3107302
+  lightness: 0.04009482
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#BF9902'
+    - '#160E05'
+    - '#FBFCFC'
+    - '#03FAFF'
+    - '#A3A29A'
+  rhythmicContrast: 0.3107302
+layout_spectrum: 0.3650963
 name: George R. Kasica
